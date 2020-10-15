@@ -1,0 +1,19 @@
+{
+"Slider":[
+    {
+        "heading":"Welcome",
+        "subHeading":"Vlinder",
+        "img":"./1.jpg",
+        "btn":"Sign up"
+    },
+    {
+        "heading":"Sanjay",
+        "subHeading":"S",
+        "img":"./two.jpg",
+        "btn":"Register"
+
+    }
+
+]
+
+}
