@@ -1,13 +1,20 @@
 {
 "Slider":[
     {
-        "heading":"Welcome",
-        "subHeading":"Vlinder",
-        "img":"./1.jpg",
+        "heading":"Vlinder",
+        "subHeading":"vlinder | blockchain agnostic platform ",
+        "img":"https://i.ibb.co/BGgV6vr/Layer-2.png",
         "btn":"Sign up"
     },
     {
         "heading":"Sanjay",
+        "subHeading":"S",
+        "img":"./two.jpg",
+        "btn":"Have you Registered yet?"
+
+    },
+    {
+        "heading":"Mahi",
         "subHeading":"S",
         "img":"./two.jpg",
         "btn":"Register"
